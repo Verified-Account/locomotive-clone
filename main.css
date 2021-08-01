@@ -6,6 +6,7 @@ body {
   background-color: #d4c9c9;
   font-family: sans-serif;
   padding: 0 40px;
+  margin: 0;
 
 }
 
@@ -19,6 +20,11 @@ body {
 
 #key-visual-section .split-version {
   color: #fff;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
 }
 
 #key-visual-section header {
@@ -40,6 +46,7 @@ body {
   position: absolute;
   left: 0;
   bottom: 0;
+  padding: 35px;
 
 
 }
@@ -51,7 +58,12 @@ body {
 }
 
 .spilt-version {
+  color: #d4c9c9;
   font-size: 13.5vw;
   line-height: 0.9;
   margin: 0;
+}
+
+#key-visual-section .logo{
+  background-image:url()
 }
