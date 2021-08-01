@@ -52,16 +52,17 @@ body {
 }
 
 #key-visual-section .title {
-  font-size: 13.5vw;
+  font-size: 11.5vw;
   line-height: 0.9;
   margin: 0;
 }
 
 .spilt-version {
-  color: #d4c9c9;
+  color: #ffffff;
   font-size: 13.5vw;
   line-height: 0.9;
   margin: 0;
+  padding: 0;
 }
 
 #key-visual-section .logo{
